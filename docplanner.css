@@ -1,0 +1,19 @@
+.title-page{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.paragraphe-container{
+    display: flex ;
+    
+}
+.cards{
+    display: flex;
+}
+.for-patient{
+    background-color: teal;
+}
+.for-doctors{
+    background-color: greenyellow;
+}
